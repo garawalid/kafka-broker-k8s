@@ -73,7 +73,7 @@ Hello world!
 ```
 ### Debug: 
 
-we need to know the pods name :
+we need to know pod's name :
 ```
 kubectl get pods
 ```
